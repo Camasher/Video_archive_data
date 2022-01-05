@@ -1,6 +1,8 @@
 volcano,camera code,camera name,start date/time,end data/time,framerate,resolution,notes
+whiteisland,WINR,whiteislandnorthrim,2019-11-27T04:49:00Z,2019-11-27T05:16:00Z,1FPS,VGA 640x480,
+whiteisland,WIWR,whiteislandwestrim,2019-11-27T04:49:00Z,2019-11-27T05:15:00Z,1FPS,VGA 640x480,
 whiteisland,WINR,whiteislandnorthrim,2021-06-04T00:25:00Z,2021-06-04T00:26:00Z,1FPS,VGA 640x480,zoom
-whiteisland,WIWR,whiteislandwestrim,2021-06-07T00:15:00Z,2021-06-07T00:1700Z,1FPS,VGA 640x480,
+whiteisland,WIWR,whiteislandwestrim,2021-06-07T00:15:00Z,2021-06-07T00:17:00Z,1FPS,VGA 640x480,
 whiteisland,WIWR,whiteislandwestrim,2021-06-11T22:29:00Z,2021-06-11T22:31:00Z,1FPS,VGA 640x480,
 whiteisland,WIWR,whiteislandwestrim,2021-06-11T22:31:00Z,2021-06-11T22:33:00Z,1FPS,VGA 640x480,
 whiteisland,WIWR,whiteislandwestrim,2021-06-12T04:09:00Z,2021-06-17T04:11:00Z,1FPS,VGA 640x480,
