@@ -1,4 +1,57 @@
 volcano,camera code,camera name,start date/time,end data/time,framerate,resolution,notes
+whiteisland,WICF,whiteislandfactory,2012-08-04T16:54:00Z,2012-08-04T16:58:00Z,1FPS,VGA 640x480,
+ruapehu,MTSR,mangateitei,2012-08-06T11:52:00Z,2012-08-06T11:54:00Z,1FPS,VGA 640x480,
+ruapehu,MTSR,mangateitei,2012-08-06T11:54:00Z,2012-08-06T12:00:00Z,1FPS,VGA 640x480,
+ruapehu,MTSR,mangateitei,2012-08-06T12:00:00Z,2012-08-06T12:05:00Z,1FPS,VGA 640x480,
+whiteisland,WICF,whiteislandfactory,2012-08-19T22:00:00Z,2012-08-19T22:21:00Z,1FPS,VGA 640x480,
+whiteisland,WICF,whiteislandfactory,2012-08-19T22:20:00Z,2012-08-19T22:46:00Z,1FPS,VGA 640x480,
+tongariro,KAKA,kakaramea,2012-11-21T00:20:00Z,2012-11-21T00:39:00Z,1FPS,VGA 640x480,
+tongariro,TOKR,karewarewa,2012-11-21T00:20:00Z,2012-11-21T00:41:00Z,1FPS,VGA 640x480,
+tongariro,TOKR,karewarewa,2012-11-24T07:25:00Z,2012-11-24T07:26:00Z,1FPS,VGA 640x480,
+whiteisland,WICF,whiteislandfactory,2013-02-22T22:29:00Z,2013-02-22T22:31:00Z,1FPS,VGA 640x480,
+whiteisland,WICF,whiteislandfactory,2013-02-23T00:27:00Z,2013-02-23T00:29:00Z,1FPS,VGA 640x480,
+whiteisland,WICF,whiteislandfactory,2013-02-23T00:29:00Z,2013-02-23T00:30:00Z,1FPS,VGA 640x480,
+whiteisland,WICF,whiteislandfactory,2013-02-23T01:30:00Z,2013-02-23T01:31:00Z,1FPS,VGA 640x480,
+whiteisland,WICF,whiteislandfactory,2013-02-23T01:32:00Z,2013-02-23T01:33:00Z,1FPS,VGA 640x480,
+whiteisland,WICF,whiteislandfactory,2013-02-23T01:33:00Z,2013-02-23T01:34:00Z,1FPS,VGA 640x480,
+whiteisland,WICF,whiteislandfactory,2013-02-23T01:34:00Z,2013-02-23T01:35:00Z,1FPS,VGA 640x480,
+whiteisland,WICF,whiteislandfactory,2013-02-23T01:35:00Z,2013-02-23T01:36:00Z,1FPS,VGA 640x480,
+whiteisland,WICF,whiteislandfactory,2013-02-23T01:40:00Z,2013-02-23T01:41:00Z,1FPS,VGA 640x480,
+whiteisland,WICF,whiteislandfactory,2013-02-23T01:50:00Z,2013-02-23T01:51:00Z,1FPS,VGA 640x480,
+whiteisland,WICF,whiteislandfactory,2013-02-23T01:51:00Z,2013-02-23T01:53:00Z,1FPS,VGA 640x480,
+whiteisland,WICF,whiteislandfactory,2013-02-23T01:53:00Z,2013-02-23T01:55:00Z,1FPS,VGA 640x480,
+whiteisland,WICF,whiteislandfactory,2013-02-23T01:55:00Z,2013-02-23T01:56:00Z,1FPS,VGA 640x480,
+whiteisland,WICF,whiteislandfactory,2013-02-23T01:56:00Z,2013-02-23T01:57:00Z,1FPS,VGA 640x480,
+whiteisland,WICF,whiteislandfactory,2013-02-23T01:57:00Z,2013-02-23T01:58:00Z,1FPS,VGA 640x480,
+whiteisland,WICF,whiteislandfactory,2013-02-23T01:59:00Z,2013-02-23T02:00:00Z,1FPS,VGA 640x480,
+whiteisland,WINR,whiteislandnorthrim,2013-04-24T03:32:00Z,2013-04-24T03:35:00Z,1FPS,VGA 640x480,
+whiteisland,WINR,whiteislandnorthrim,2013-07-25T19:20:00Z,2013-07-25T19:26:00Z,1FPS,VGA 640x480,
+whiteisland,WINR,whiteislandnorthrim,2013-08-18T16:00:00Z,2013-08-18T16:11:00Z,1FPS,VGA 640x480,
+whiteisland,WINR,whiteislandnorthrim,2013-08-19T22:00:00Z,2013-08-19T22:21:00Z,1FPS,VGA 640x480,
+whiteisland,WHOH,whakatanehub,2013-08-19T22:20:00Z,2013-08-19T22:36:00Z,1FPS,VGA 640x480,
+whiteisland,WINR,whiteislandnorthrim,2013-08-19T22:20:00Z,2013-08-19T22:36:00Z,1FPS,VGA 640x480,
+whiteisland,WHOH,whakatanehub,2013-08-19T22:35:00Z,2013-08-19T22:46:00Z,1FPS,VGA 640x480,
+whiteisland,WINR,whiteislandnorthrim,2013-08-19T22:35:00Z,2013-08-19T22:41:00Z,1FPS,VGA 640x480,
+tongariro,TOKR,karewarewa,2013-09-18T05:50:00Z,2013-09-18T06:05:00Z,1FPS,VGA 640x480,
+whiteisland,WHOH,whakatanehub,2013-10-03T03:30:00Z,2013-10-03T03:51:00Z,1FPS,VGA 640x480,
+whiteisland,WINR,whiteislandnorthrim,2013-10-08T02:05:00Z,2013-10-08T02:25:00Z,1FPS,VGA 640x480,
+whiteisland,WINR,whiteislandnorthrim,2013-10-11T07:00:00Z,2013-10-11T07:16:00Z,1FPS,VGA 640x480,
+whiteisland,WICF,whiteislandfactory,2013-10-11T07:07:00Z,2013-10-11T07:11:00Z,1FPS,VGA 640x480,
+whiteisland,WINR,whiteislandnorthrim,2013-10-13T03:30:00Z,2013-10-13T03:51:00Z,1FPS,VGA 640x480,
+whiteisland,WINR,whiteislandnorthrim,2013-10-17T01:15:00Z,2013-10-17T01:31:00Z,1FPS,VGA 640x480,
+tongariro,TOKR,karewarewa,2015-01-07T16:50:00Z,2015-01-07T17:01:00Z,1FPS,VGA 640x480,
+whiteisland,WINR,whiteislandnorthrim,2017-01-11T22:53:00Z,2017-01-11T22:56:00Z,4FPS,VGA 640x480,thermal|dual lenses
+whiteisland,WINR,whiteislandnorthrim,2017-01-11T22:57:00Z,2017-01-11T23:02:00Z,4FPS,VGA 640x480,thermal|dual lenses
+whiteisland,WINR,whiteislandnorthrim,2017-01-11T23:00:00Z,2017-01-11T23:03:00Z,4FPS,VGA 640x480,thermal|dual lenses
+whiteisland,WINR,whiteislandnorthrim,2017-01-11T23:10:00Z,2017-01-11T23:11:00Z,4FPS,VGA 640x480,thermal|dual lenses
+whiteisland,XXXX,whiteislandsouthwestrim,2017-01-12T00:30:00Z,2017-01-12T00:32:00Z,4FPS,VGA 640x480,thermal|dual lenses
+whiteisland,XXXX,whiteislandsouthwestrim,2017-01-12T00:58:00Z,2017-01-12T01:01:00Z,4FPS,VGA 640x480,thermal|dual lenses
+whiteisland,WICF,whiteislandfactory,2017-01-12T02:18:00Z,2017-01-12T02:20:00Z,4FPS,VGA 640x480,thermal|dual lenses
+whiteisland,XXXX,whiteislandfumarolezero,2017-01-12T02:39:00Z,2017-01-12T02:41:00Z,4FPS,VGA 640x480,thermal|dual lenses
+whiteisland,XXXX,whiteislandfumarolezero,2017-01-12T02:47:00Z,2017-01-12T02:48:00Z,4FPS,VGA 640x480,thermal|dual lenses
+whiteisland,XXXX,whiteislandlakeedge,2017-01-12T02:53:00Z,2017-01-12T02:55:00Z,4FPS,VGA 640x480,thermal|dual lenses
+whiteisland,XXXX,whiteislandlakeedge,2017-01-12T02:58:00Z,2017-01-12T03:00:00Z,4FPS,VGA 640x480,thermal|dual lenses
+whiteisland,XXXX,whiteislandlakeedge,2017-01-12T03:04:00Z,2017-01-12T03:05:00Z,4FPS,VGA 640x480,thermal|dual lenses
 whiteisland,WINR,whiteislandnorthrim,2019-11-27T04:49:00Z,2019-11-27T05:16:00Z,1FPS,VGA 640x480,
 whiteisland,WIWR,whiteislandwestrim,2019-11-27T04:49:00Z,2019-11-27T05:15:00Z,1FPS,VGA 640x480,
 whiteisland,WIWR,whiteislandwestrim,2019-12-09T01:06:00Z,2019-12-09T01:17:00Z,1FPS,VGA 640x480,ERUPTION - CONFIDENTIAL
