@@ -24,9 +24,10 @@ For Confidential, add "_CONFIDENTIAL"
 - [X] J Drive
 - [X] VolcDB
 - [X] Slack - Volcanology
-- [ ] Slack - Duty
+- [X] Slack - Duty
 - [ ] Teams - Volcanology
 - [ ] CA Laptop
+- [ ] CA Old Laptop
 - [ ] CA PC
 - [ ] RJ Laptop
 - [ ] RJ PC
