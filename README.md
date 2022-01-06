@@ -19,11 +19,11 @@ Tracking recorded 1FPS volcano imagery data
 For thermal imagery add "_thermal"
 For Confidential, add "_CONFIDENTIAL"
 
-### Locations to Check-
+### Locations to Check
 
-- [ ] J Drive
-- [ ] VolcDB
-- [ ] Slack - Volcanology
+- [X] J Drive
+- [X] VolcDB
+- [X] Slack - Volcanology
 - [ ] Slack - Duty
 - [ ] Teams - Volcanology
 - [ ] CA Laptop
