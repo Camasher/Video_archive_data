@@ -20,7 +20,7 @@ In UTC, format as YYYY-MM-DDTHH:MM:SSZ eg. 2021-12-25T03:15:00Z
 typically "1FPS"
 
 #### resolution
-typically "640x480"
+typically "VGA 640x480"
 
 #### notes
 any special details about the video clip, which may be in TAR format, zoomed, of differing quality, or from multiple lenses simultaneously
@@ -32,10 +32,16 @@ any special details about the video clip, which may be in TAR format, zoomed, of
 For thermal imagery add "_thermal"
 For Confidential, add "_CONFIDENTIAL"
 
-### To add at a later date:
+### ToDo at a later date:
 
-TAGS: a field to catpure important information about a specific video. Does it contain an eruption? nightglow?
+add field **TAGS** or **KEYWORDS**: a field to catpure important information about a specific video. Does it contain an eruption? nightglow?
 
-LENS: is the view a night or day lens shot? or is it thermal?
+add field **LENS**: is the view a night or day lens shot? or is it thermal?
 
-FORMAT: generally formats are in .mxg, but .tar and .mp4 also exist. A .mp4 file implies that the .mxg version no longer exists.
+add field **FORMAT**: generally formats are in .mxg, but .tar and .mp4 also exist. A .mp4 file implies that the .mxg version no longer exists.
+
+add field that auto-generates file name with hyperlink
+
+Remove FPS from FPS field entries as it is redundant. No need to say "FPS: 1FPS" when you could just say "FPS: 1"
+
+Remove VGA or QXGA from resolution as they are redundant, just leave the field as 640x480. Some thought needs to go in to DUAL LENSES files, as in most cases that are two 640x480 videos merged side-by-side and are therefore 1280x480 resolution
