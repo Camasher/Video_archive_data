@@ -9,6 +9,17 @@ temaari,TOKR,karewarewa,2020-04-05T07:20:00Z,2020-04-05T07:40:00Z,1FPS,VGA 640x4
 temaari,TOKR,karewarewa,2020-04-05T07:40:00Z,2020-04-05T08:00:00Z,1FPS,VGA 640x480,
 temaari,TOKR,karewarewa,2020-04-05T08:40:00Z,2020-04-05T09:00:00Z,1FPS,VGA 640x480,
 whiteisland,WINR,whiteislandnorthrim,2021-01-10T21:55:00Z,2021-01-10T21:56:00Z,1FPS,VGA 640x480,
+whiteisland,WICF,whiteislandfactory,2021-02-18T16:13:00Z,2021-02-18T16:13:30Z,1FPS,VGA 640x480,
+taranaki,TEMO,taranakiemergencymanagementoffice,2021-02-26T09:08:00Z,2021-02-26T09:10:00Z,1FPS,VGA 640x480,
+raoul,RIMK,raoulislandmountmoumoukai,2021-03-04T17:41:00Z,2021-03-04T17:45:00Z,1FPS,VGA 640x480,
+raoul,RIMK,raoulislandmountmoumoukai,2021-03-04T19:28:00Z,2021-03-04T19:28:48Z,1FPS,VGA 640x480,
+whiteisland,WINR,whiteislandnorthrim,2021-04-06T23:34:00Z,2021-04-06T23:37:00Z,6FPS,VGA 640x480,zoom
+raoul,RIMK,raoulislandmountmoumoukai,2021-04-26T16:15:00Z,2021-04-26T16:25:00Z,1FPS,VGA 640x480,
+raoul,RIMK,raoulislandmountmoumoukai,2021-04-27T16:15:00Z,2021-04-27T16:25:00Z,1FPS,VGA 640x480,
+whiteisland,WINR,whiteislandnorthrim,2021-04-29T10:30:00Z,2021-04-29T10:41:00Z,1FPS,VGA 640x480,
+whiteisland,WICF,whiteislandfactory,2021-04-29T10:30:00Z,2021-04-29T10:53:00Z,1FPS,VGA 640x480,partial data loss
+whiteisland,WIWR,whiteislandwestrim,2021-05-12T23:43:00Z,2021-05-12T23:44:00Z,1FPS,VGA 640x480,
+whiteisland,WIWR,whiteislandwestrim,2021-05-17T23:29:00Z,2021-05-17T23:31:00Z,1FPS,VGA 640x480,
 whiteisland,WINR,whiteislandnorthrim,2021-06-04T00:25:00Z,2021-06-04T00:26:00Z,1FPS,VGA 640x480,zoom
 whiteisland,WIWR,whiteislandwestrim,2021-06-07T00:15:00Z,2021-06-07T00:17:00Z,1FPS,VGA 640x480,
 whiteisland,WIWR,whiteislandwestrim,2021-06-11T22:29:00Z,2021-06-11T22:31:00Z,1FPS,VGA 640x480,
@@ -25,11 +36,14 @@ whiteisland,WINR,whiteislandnorthrim,2021-06-30T01:15:00Z,2021-06-30T01:20:00Z,1
 whiteisland,WINR,whiteislandnorthrim,2021-07-02T04:19:00Z,2021-07-02T04:21:00Z,1FPS,VGA 640x480,
 whiteisland,WINR,whiteislandnorthrim,2021-07-02T07:55:00Z,2021-07-02T07:56:00Z,1FPS,VGA 640x480,zoom
 whiteisland,WINR,whiteislandnorthrim,2021-07-02T07:57:00Z,2021-07-02T07:58:00Z,1FPS,VGA 640x480,zoom
+whiteisland,WHOH,whakatanehub,2021-07-04T00:00:00Z,2021-07-04T00:40:00Z,1FPS,VGA 640x480,
 whiteisland,WINR,whiteislandnorthrim,2021-07-05T02:59:00Z,2021-07-05T03:01:00Z,1FPS,VGA 640x480,
 whiteisland,WINR,whiteislandnorthrim,2021-07-08T06:35:00Z,2021-07-08T06:37:00Z,1FPS,VGA 640x480,dual lenses
 whiteisland,WIWR,whiteislandwestrim,2021-07-08T06:35:00Z,2021-07-08T06:37:00Z,3FPS,VGA 640x480,dual lenses|zoom
 whiteisland,WINR,whiteislandnorthrim,2021-07-08T09:34:00Z,2021-07-08T09:35:00Z,1FPS,QXGA 2048x1536,
 whiteisland,WINR,whiteislandnorthrim,2021-07-08T09:44:00Z,2021-07-08T09:45:00Z,1FPS,QXGA 2048x1536,
+whiteisland,WINR,whiteislandnorthrim,2021-07-09T00:18:00Z,2021-07-09T00:20:00Z,6FPS,VGA 640x480,zoom
+ruapehu,DISC,discoverylodge,2021-07-12T22:50:00Z,2021-07-12T23:00:00Z,6FPS,VGA 640x480,
 whiteisland,WINR,whiteislandnorthrim,2021-08-21T19:39:00Z,2021-08-21T19:42:00Z,1FPS,VGA 640x480,
 whiteisland,WINR,whiteislandnorthrim,2021-08-22T10:28:00Z,2021-08-22T10:32:00Z,1FPS,VGA 640x480,
 whiteisland,WINR,whiteislandnorthrim,2021-08-22T22:45:00Z,2021-08-22T22:50:00Z,1FPS,VGA 640x480,
