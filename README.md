@@ -1,8 +1,19 @@
 # Video_archive_data
 Tracking recorded 1FPS volcano imagery data
 
+|Field Name   |Description   |Example   |
+|---|---|---|
+|volcano   |Name of the volcano that the imagery is of. Lowercase.   |ruapehu, tongariro, whiteisland, raoul   |
+|camera code   |code name of the camera from the GeoNet Delta "cameras.csv". Uppercase.   |WINR   |
+|camera name   |site name of the camera from the Geonet Delta "cameras.csv".   |whiteislandnorthrim   |
+|start date/time   |In UTC, format as YYYY-MM-DDTHH:MM:SSZ   |2021-12-25T03:12:00Z   |
+|end data/time   |In UTC, format as YYYY-MM-DDTHH:MM:SSZ   |2021-12-25T03:15:00Z   |
+|framerate   |In Frames per Second   |1FPS   |
+|resolution   |quality of the video. In cases where two lenses are used, it will display the format of one of the lenses   |VGA 640x480   |
+|notes   |any special details about the video clip. Seperated by vertical line   |TAR format, multiple lenses, confidential, thermal   |
+
 #### volcano
-name of the volcano that the imagery is of, generally "white island", but could be any of the volcanoes such as "raoul", "ruapehu", or "tongariro". Lowercase.
+Name of the volcano that the imagery is of, generally "white island", but could be any of the volcanoes such as "raoul", "ruapehu", or "tongariro". Lowercase.
 
 #### camera code
 code name of the camera from the GeoNet Delta cameras.csv. eg. "WINR". All uppercase.
