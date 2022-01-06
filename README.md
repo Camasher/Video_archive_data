@@ -3,9 +3,9 @@ Tracking recorded 1FPS volcano imagery data
 
 volcano - name of the volcano that the imagery is of, generally "white island", but could be any of the volcanoes such as "raoul", "ruapehu", or "tongariro". Lowercase.
 
-camera code - code name of the camera from the GeoNet Delta cameras.csv. eg. "WINR". All uppercase.
+####camera code - code name of the camera from the GeoNet Delta cameras.csv. eg. "WINR". All uppercase.
 
-camera name - site name of the camera from the Geonet Delta cameras.csv. eg "whiteislandnorthrim"
+####camera name - site name of the camera from the Geonet Delta cameras.csv. eg "whiteislandnorthrim"
 
 start date/time - In UTC, format as YYYY-MM-DDTHH:MM:SSZ eg. 2021-12-25T03:12:00Z
 
