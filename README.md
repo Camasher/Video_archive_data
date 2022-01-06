@@ -19,6 +19,19 @@ Tracking recorded 1FPS volcano imagery data
 For thermal imagery add "_thermal"
 For Confidential, add "_CONFIDENTIAL"
 
+### Locations to Check-
+
+- [ ] J Drive
+- [ ] VolcDB
+- [ ] Slack - Volcanology
+- [ ] Slack - Duty
+- [ ] Teams - Volcanology
+- [ ] CA Laptop
+- [ ] CA PC
+- [ ] RJ Laptop
+- [ ] RJ PC
+- [ ] VML
+
 ### ToDo at a later date:
 
 add field **TAGS** or **KEYWORDS**: a field to catpure important information about a specific video. Does it contain an eruption? nightglow?
