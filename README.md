@@ -16,8 +16,9 @@ Tracking recorded 1FPS volcano imagery data
 
 "netcam-[camera name]_YYYYMMDDTHHMM-HHMM"
 
-For thermal imagery add "_thermal"
-For Confidential, add "_CONFIDENTIAL"
+- For thermal imagery add "_thermal"
+- For confidential videos such as White Island eruption videos, which are provided on a case-by-case basis, add "_CONFIDENTIAL"
+- For videos which have been sped up, add "_8x" or "_64x" depending on how sped up the video is. It is preffered that the raw .mxg video is archived, but if the .mxg no longer exists, and only a sped up .mp4 exists, then this is acceptable.
 
 ### Locations to Check
 
