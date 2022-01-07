@@ -20,6 +20,8 @@ Tracking recorded 1FPS volcano imagery data
 - For confidential videos such as White Island eruption videos, which are provided on a case-by-case basis, add "_CONFIDENTIAL"
 - For videos which have been sped up, add "_8x" or "_64x" depending on how sped up the video is. It is preffered that the raw .mxg video is archived, but if the .mxg no longer exists, and only a sped up .mp4 exists, then this is acceptable.
 
+If the video spans multiple days, the YYYYMMDD is the date at which the video starts
+
 ### Locations to Check
 
 - [X] J Drive
