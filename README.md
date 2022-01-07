@@ -45,6 +45,7 @@ If the video spans multiple days, the YYYYMMDD is the date at which the video st
 - [X] Slack - Volcanology
 - [X] Slack - Duty
 - [ ] Teams - Volcanology
+- [ ] NGMC J Drive - mostly .mp4 and/or sped up
 - [ ] CA Laptop
 - [ ] CA Old Laptop
 - [ ] CA PC
