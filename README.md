@@ -12,6 +12,22 @@ Tracking recorded 1FPS volcano imagery data
 |resolution   |quality of the video. In cases where two lenses are used, it will display the format of one of the lenses   |VGA 640x480   |
 |notes   |any special details about the video clip. Seperated by vertical line   |TAR format, multiple lenses, confidential, thermal   |
 
+List of Camera Codes:
+| Code | Site Name |
+|---|---|
+| XXXX  | this refers to a temporary site and will be named accordingly  |
+| DISC  | Discovery Lodge   |
+| KAKA  | Kakaramea  |
+| KMTP  | Tai Ping  |
+| MTSR  | Mangateitei  |
+| RIMK  | Raoul Island Mount Moumoukai  |
+| TEMO  | Taranaki Emergency Management Office  |
+| TOKR  | Karewarewa  |
+| WHOH  | Whakatane Hub  |
+| WICF  | White Island Factory  |
+| WINR  | White Island North Rim  |
+| WIWR  | White Island West Rim  |
+
 ### File Naming Convention:
 
 "netcam-[camera name]_YYYYMMDDTHHMM-HHMM"
