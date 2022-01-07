@@ -5,7 +5,7 @@ Tracking recorded 1FPS volcano imagery data
 |---|---|---|
 |volcano   |Name of the volcano that the imagery is of. Lowercase.   |ruapehu, tongariro, whiteisland, raoul   |
 |camera code   |code name of the camera from the GeoNet Delta "cameras.csv". Uppercase.   |WINR   |
-|camera name   |site name of the camera from the Geonet Delta "cameras.csv".   |whiteislandnorthrim   |
+|camera name   |site name of the camera from the Geonet Delta "cameras.csv". Lowercase, one word.  |whiteislandnorthrim   |
 |start date/time   |In UTC, format as YYYY-MM-DDTHH:MM:SSZ   |2021-12-25T03:12:00Z   |
 |end data/time   |In UTC, format as YYYY-MM-DDTHH:MM:SSZ   |2021-12-25T03:15:00Z   |
 |framerate   |In Frames per Second   |1FPS   |
