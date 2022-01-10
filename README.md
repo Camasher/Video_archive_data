@@ -9,7 +9,7 @@ Tracking recorded 1FPS volcano imagery data
 |start date/time   |In UTC, format as YYYY-MM-DDTHH:MM:SSZ   |2021-12-25T03:12:00Z   |
 |end data/time   |In UTC, format as YYYY-MM-DDTHH:MM:SSZ   |2021-12-25T03:15:00Z   |
 |framerate   |In Frames per Second   |1FPS   |
-|resolution   |quality of the video. In cases where two lenses are used, it will display the format of one of the lenses   |VGA 640x480   |
+|resolution   |quality of the video. In cases where two lenses are used, it will display the format of one of the lenses   |640x480   |
 |filetype   |captured for non raw .mxg files   |mxg, mp4, tar|
 |lens   |To captured what type of lens the image was captured   |day, night, thermal    |
 |notes   |any special details about the video clip. Seperated by vertical line   |TAR format, multiple lenses, confidential, thermal   |
