@@ -13,7 +13,7 @@ Tracking recorded 1FPS volcano imagery data
 |filetype   |captured for non raw .mxg files   |mxg, mp4, tar|
 |lens   |To captured what type of lens the image was captured   |day, night, thermal    |
 |notes   |any special details about the video clip. Seperated by vertical line   |TAR format, multiple lenses, confidential, thermal   |
-|keywords   |For specific search words to help narrow down focus media   |eruption, ash, plume, glow    |
+|keywords   |For specific search words to help narrow down focus media. Seperated by vertical line "|"   |eruption, ash, plume, glow    |
 
 List of Camera Codes:
 | Code | Site Name |
