@@ -52,7 +52,7 @@ whiteisland,XXXX,whiteislandfumarolezero,2017-01-12T02:47:00Z,2017-01-12T02:48:0
 whiteisland,XXXX,whiteislandlakeedge,2017-01-12T02:53:00Z,2017-01-12T02:55:00Z,4FPS,640x480,mxg,day|thermal,,steam|plume
 whiteisland,XXXX,whiteislandlakeedge,2017-01-12T02:58:00Z,2017-01-12T03:00:00Z,4FPS,640x480,mxg,day|thermal,,steam|plume
 whiteisland,XXXX,whiteislandlakeedge,2017-01-12T03:04:00Z,2017-01-12T03:05:00Z,4FPS,640x480,mxg,day|thermal,,steam|plume
-whiteisland,WINR,whiteislandnorthrim,2019-11-27T04:49:00Z,2019-11-27T05:16:00Z,1FPS,640x480,mxg,day,,steam|plume|guyser
+whiteisland,WINR,whiteislandnorthrim,2019-11-27T04:49:00Z,2019-11-27T05:16:00Z,1FPS,640x480,mxg,day,,steam|plume|geyser
 whiteisland,WIWR,whiteislandwestrim,2019-11-27T04:49:00Z,2019-11-27T05:15:00Z,1FPS,640x480,mxg,day,,steam
 whiteisland,WIWR,whiteislandwestrim,2019-12-09T01:06:00Z,2019-12-09T01:17:00Z,1FPS,640x480,mxg,day,ERUPTION - CONFIDENTIAL,eruption|steam|plume|ash|pdc
 whiteisland,WINR,whiteislandnorthrim,2019-12-09T01:09:00Z,2019-12-09T01:13:00Z,1FPS,640x480,mxg,day,ERUPTION - CONFIDENTIAL,eruption|steam|plume|ash|pdc
@@ -102,7 +102,7 @@ whiteisland,WIWR,whiteislandwestrim,2021-06-12T04:19:00Z,2021-06-17T04:21:00Z,1F
 whiteisland,WIWR,whiteislandwestrim,2021-06-17T23:07:00Z,2021-06-17T23:09:00Z,1FPS,640x480,mxg,day,,steam|plume
 whiteisland,WIWR,whiteislandwestrim,2021-06-17T23:09:00Z,2021-06-17T23:11:00Z,1FPS,640x480,mxg,day,,steam|plume
 whiteisland,WIWR,whiteislandwestrim,2021-06-18T02:48:00Z,2021-06-18T02:50:00Z,6FPS,1024x768,mxg,day,zoom,steam|plume
-whiteisland,WIWR,whiteislandwestrim,2021-06-18T03:42:00Z,2021-06-18T03:46:00Z,6FPS,1024x768,mxg,day,zoom,steam|plume|guyser
+whiteisland,WIWR,whiteislandwestrim,2021-06-18T03:42:00Z,2021-06-18T03:46:00Z,6FPS,1024x768,mxg,day,zoom,steam|plume|geyser
 whiteisland,WINR,whiteislandnorthrim,2021-06-27T21:27:00Z,2021-06-27T21:29:00Z,6FPS,640x480,mxg,day,zoom,steam|plume
 whiteisland,WINR,whiteislandnorthrim,2021-06-28T03:40:00Z,2021-06-28T03:41:00Z,6FPS,640x480,mxg,day,,steam|plume
 whiteisland,WINR,whiteislandnorthrim,2021-06-30T01:15:00Z,2021-06-30T01:20:00Z,1FPS,640x480,mxg,day,,steam|plume
