@@ -8,7 +8,7 @@ Tracking recorded 1FPS volcano imagery data
 |camera name   |site name of the camera from the Geonet Delta "cameras.csv". Lowercase, one word.  |whiteislandnorthrim   |
 |start date/time   |In UTC, format as YYYY-MM-DDTHH:MM:SSZ.  |2021-12-25T03:12:00Z   |
 |end data/time   |In UTC, format as YYYY-MM-DDTHH:MM:SSZ.   |2021-12-25T03:15:00Z   |
-|framerate   |In Frames per Second.   |1FPS   |
+|framerate   |In Frames per Second. 0.1FPS is used for one image per minute   |1FPS   |
 |resolution   |quality of the video. In cases where two lenses are used, it will display the format of one of the lenses   |640x480   |
 |filetype   |captured for non raw .mxg files.   |mxg, mp4, tar|
 |lens   |To captured what type of lens the image was captured. Where multiple lenses, separate by vertical line.   |day, night, thermal    |
