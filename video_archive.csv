@@ -230,6 +230,7 @@ whiteisland,WHOH,whakatanehub,2023-10-07T21:40:00Z,2023-10-07T22:48:00Z,0.01FPS,
 ruapehu and tongariro,KMTP,taiping,2024-03-20T23:00:00Z,2024-03-20T23:20:00Z,1FPS,640x480,max,day,,explosion|plume
 tongariro,KAKA,kakaramea,2024-05-11T11:25:00Z,2024-05-11T11:45:00Z,1FPS,640x480,mxg,night,,stars|aurora
 whiteisland,WHOH,whakatanehub,2024-05-19T00:29:00Z,2024-05-19T02:58:00Z,0.01FPS,640x480,tar,day,,steam|plume|climate
-whiteisland,WHOH,whakatanehub,2024-05-23T12:48:00Z,2024-05-23T13:13:00Z,0.01FPS,640x480,tar,day,,steam|plume|climate
-whiteisland,WHOH,whakatanehub,2024-05-23T20:17:00Z,2024-05-23T20:34:00Z,0.01FPS,640x480,tar,day,,steam|plume|eruption
-whiteisland,WHOH,whakatanehub,2024-05-24T20:50:00Z,2024-05-24T21:55:00Z,0.01FPS,640x480,tar,day,,steam|plume|eruption
+whiteisland,WHOH,whakatanehub,2024-05-23T12:48:00Z,2024-05-23T13:13:00Z,0.01FPS,640x480,tar,day,,steam|plume|climate|eruption
+whiteisland,WHOH,whakatanehub,2024-05-23T20:17:00Z,2024-05-23T20:34:00Z,0.01FPS,640x480,tar,day,,steam|plume|climate|eruption
+whiteisland,WHOH,whakatanehub,2024-05-24T20:50:00Z,2024-05-24T21:55:00Z,0.01FPS,640x480,tar,day,,steam|plume|climate|eruption
+whiteisland,WHOH,whakatanehub,2024-05-25T00:00:00Z,2024-05-25T00:20:00Z,0.01FPS,640x480,tar,day,,steam|plume|climate|eruption
