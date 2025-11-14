@@ -365,3 +365,6 @@ ngauruhoe,DISC,discoverylodge,2025-11-09T13:00:00Z,2025-11-09T14:00:00Z,1FPS,640
 ngauruhoe,DISC,discoverylodge,2025-11-09T14:00:00Z,2025-11-09T15:00:00Z,1FPS,640x480,mxg,night,,smoke|fire
 ngauruhoe,DISC,discoverylodge,2025-11-09T15:00:00Z,2025-11-09T16:00:00Z,1FPS,640x480,mxg,night,,smoke|fire
 ngauruhoe,DISC,discoverylodge,2025-11-09T16:00:00Z,2025-11-09T17:00:00Z,1FPS,640x480,mxg,night,,smoke|fire
+whiteisland,WHOH,whakatanehub,2025-11-13T22:20:00Z,2025-11-13T23:30:00Z,5FPS,2560x1440,mkv,day,axis,steam|plume|ash|eruption
+whiteisland,WHOH,whakatanehub,2025-11-13T22:20:00Z,2025-11-13T23:30:00Z,1FPS,640x480,mxg,day,,steam|plume|ash|eruption
+whiteisland,TKAH,tekaha,2025-11-13T22:20:00Z,2025-11-13T23:30:00Z,1FPS,640x480,mxg,day,,steam|plume|ash|eruption
