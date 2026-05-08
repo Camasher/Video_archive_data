@@ -376,7 +376,7 @@ whiteisland,TKAH,tekaha,2026-04-20T21:07:00Z,2026-04-20T21:20:00Z,5FPS,2560x1440
 ngauruhoe,DISC,discoverylodge,2026-04-24T07:00:00Z,2026-04-24T07:10:00Z,15FPS,3712x2784,mkv,day,,stars
 ruapehu,DISC,discoverylodge,2026-04-24T07:00:00Z,2026-04-24T07:10:00Z,15FPS,3712x2784,mkv,day,,stars
 tongariro,KAKA,kakaramea,2026-04-24T07:00:00Z,2026-04-24T07:10:00Z,15FPS,3712x2784,mkv,day,no timestamp,stars
-ruapehu|tongariro,KMTP,taiping,2026-04-24T07:00:00Z,2026-04-24T07:10:00Z,1FPS,640x480,mxg,night,,stars
+ruapehu|tongariro,KMTP,taiping,2026-04-24T07:00:00Z,2026-04-24T07:10:00Z,1FPS,640x480,mxg,night,,stars|rocket|aura
 ruapehu,MTSR,mangateitei,2026-04-24T07:00:00Z,2026-04-24T07:10:00Z,15FPS,3712x2784,mkv,day,,stars
 raoulisland,RIMK,raoulmountmoumoukai,2026-04-24T07:00:00Z,2026-04-24T07:10:00Z,15FPS,3712x2784,mkv,day,,stars
 whiteisland,TKAH,tekaha,2026-04-24T07:00:00Z,2026-04-24T07:10:00Z,15FPS,3712x2784,mkv,day,,steam|plume|stars
